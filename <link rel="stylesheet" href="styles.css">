@@ -1,0 +1,66 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #f4f6f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background: linear-gradient(90deg, #007b5e, #00b894);
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+/* Main Content */
+main {
+  padding: 2rem;
+}
+
+/* Section Titles */
+h2 {
+  color: #007b5e;
+  margin-bottom: 1rem;
+}
+
+/* Gallery Section */
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 1.5rem;
+}
+
+.card {
+  background: white;
+  border: 2px solid #007b5e;
+  border-radius: 10px;
+  width: 250px;
+  padding: 1rem;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #007b5e;
+  color: white;
+  margin-top: 2rem;
+}
