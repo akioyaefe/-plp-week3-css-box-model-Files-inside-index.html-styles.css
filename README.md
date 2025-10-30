@@ -55,7 +55,6 @@ Example snippet:
 </body>
 </html>
 
-
 ---
 
 🎨 styles.css
@@ -121,3 +120,64 @@ Visual structure of each element:
 +--------------------------+
 
 --
+🌐 ASSIGNMENT 
+
+. create a simple webpage using HTML and enhance it with advanced CSS.
+
+. Apply
+
+CSS concepts covered in the week’s lessons — particularly:
+CSS Selectors and Classes
+
+Box Model (margin, border, padding, content)
+
+Layout with Flexbox or Grid
+
+Styling text, backgrounds, and images
+
+Transitions, hover effects, or animations
+
+---
+  The assignment emphasizes practical implementation—creating a visually appealing layout that demonstrates real-world styling techniques used by professional front-end developers.
+
+Key Objectives
+
+1. Understand and apply advanced CSS selectors and properties.
+
+
+2. Use the box model to manage spacing, borders, and padding.
+
+
+3. Enhance the structure of web content using flexbox or grid layouts.
+
+
+4. Apply colors, gradients, and transitions for smooth visual effects.
+
+
+5. Improve user interactivity through hover effects and animations.
+
+
+
+What This Project is expected to Demonstrate, includes:
+
+A complete webpage styled using advanced CSS principles.
+
+Clean, responsive layout that adapts across devices.
+
+Attention to details like alignment, spacing, and color balance.
+
+Hands-on practice of concepts taught in the PLP course, such as selectors, class usage, and box model behavior.
+
+Tools & Technologies
+
+HTML5
+
+CSS3
+
+Git & GitHub for version control
+
+(Optional: Visual Studio Code or any preferred code editor)
+
+---
+
+
